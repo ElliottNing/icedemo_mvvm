@@ -22,7 +22,7 @@
 		<tk.mybatis.mapper>4.1.5</tk.mybatis.mapper>
 		<mybatis.starter>2.0.1</mybatis.starter>
 		<pagehelper.version>1.2.10</pagehelper.version>
-		<shiro.version>1.4.1</shiro.version>
+		<shiro.version>1.7.0</shiro.version>
 	</properties>
 
 	<dependencies>
